@@ -1,0 +1,117 @@
+body {
+    background-color: lightgrey;
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.container {
+    height: 400px;
+    width: 800px;
+    /* background-color: #211e1e;
+     */
+    background-color: #010047;
+    margin: auto;
+    border-radius: 25px;
+    box-shadow: 0px 0px 50px 10px gray;
+    margin-top: 150px;
+    position: relative;
+}
+
+.title {
+    margin: auto;
+    margin-top: 50px;
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+    margin-left: 240px;
+    position: absolute;
+}
+
+.controlInput .input {
+    width: 500px;
+    height: 25px;
+    border: none;
+    margin: auto;
+    margin-top: 150px;
+    margin-left: 130px;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+input:hover {
+    box-shadow: 0px 0px 10px 2px rgb(189, 188, 188);
+}
+
+.verification {
+    margin: auto;
+    margin-top: 40px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 300px;
+    position: absolute;
+}
+
+.controlBtn .convert {
+    font-size: 17px;
+    height: 50px;
+    width: 150px;
+    border-radius: 25px;
+    border: none;
+    margin: auto;
+    margin-top: 100px;
+    margin-left: 80px;
+    transition: 0.2s;
+    box-shadow: 0px 0px 10px 2px rgb(19, 18, 18);
+    cursor: pointer;
+
+}
+
+.controlBtn .convert:hover {
+    background-color: gray;
+    box-shadow: 0px 0px 10px 2px rgb(189, 188, 188);
+    color: white;
+}
+
+.controlBtn .reset {
+    font-size: 17px;
+    height: 50px;
+    width: 150px;
+    border-radius: 25px;
+    border: none;
+    margin: auto;
+    margin-top: 100px;
+    margin-left: 70px;
+    transition: 0.2s;
+    box-shadow: 0px 0px 10px 2px rgb(19, 18, 18);
+    cursor: pointer;
+}
+
+.controlBtn .reset:hover {
+    background-color: gray;
+    box-shadow: 0px 0px 10px 2px rgb(189, 188, 188);
+    color: white;
+}
+
+.controlBtn .change {
+    font-size: 17px;
+    height: 50px;
+    width: 150px;
+    border: none;
+    border-radius: 25px;
+    margin: auto;
+    margin-top: 100px;
+    margin-left: 70px;
+    transition: 0.2s;
+    box-shadow: 0px 0px 10px 2px rgb(19, 18, 18);
+    cursor: pointer;
+
+
+}
+
+.controlBtn .change:hover {
+    background-color: gray;
+    box-shadow: 0px 0px 10px 2px rgb(189, 188, 188);
+    color: white;
+}
