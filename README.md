@@ -11,8 +11,8 @@ This project is a simple application that converts temperature from Celsius to F
 ## How to Use
 
 1. **Select Temperature Unit**:
-   - Click the "Celsius" button to enter a temperature in Celsius.
-   - Or click the "Fahrenheit" button to enter a temperature in Fahrenheit.
+   - Click the "Change" button to enter a temperature in Celsius.
+   - Or click the "Change" button to enter a temperature in Fahrenheit.
 
 2. **Input Temperature**:
    - Enter the temperature value in the corresponding field.
